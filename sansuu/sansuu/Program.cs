@@ -9,8 +9,8 @@ Mutiplication kakeru= new Mutiplication(Num1, Num2);
 Division  waru= new Division(Num1, Num2);
 Console.WriteLine(Num1 + " + " + Num2+"="+sum());
 
-Console.WriteLine(Num1 + " - " + Num2 + " = "mainasu());
+Console.WriteLine(Num1 + " - " + Num2 +" = "+mainasu());
 
-Console.WriteLine(Num1 + " × " + Num2 + " = "kakeru());
+Console.WriteLine(Num1 + " × " + Num2 +" = "+kakeru());
 
-Console.WriteLine(Num1 + " ÷ " + Num2 + " = "waru());
+Console.WriteLine(Num1 + " ÷ " + Num2 + " = "+waru());
